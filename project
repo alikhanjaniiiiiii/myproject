@@ -1,0 +1,6 @@
+git clone https://github.com/YourUsername/my-first-project.git
+cd my-first-project
+echo "<h1>Hello World</h1>" > index.html
+git add index.html
+git commit -m "Added index.html with a Hello World message"
+
