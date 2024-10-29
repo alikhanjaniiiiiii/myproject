@@ -1,8 +1,11 @@
 git clone https://github.com/YourUsername/my-first-project.git
 cd my-first-project
-echo "<h1>Hello World</h1>" > index.html
+echo "<h1>my project name is calucature </h1>" > index.html
 git add index.html
 git commit -m "Added index.html with a Hello World message"
+now
+
+Update project
 echo "<p>This is my first GitHub project!</p>" >> index.html
 git add index.html
 git commit -m "Added a paragraph to index.html"
