@@ -3,4 +3,12 @@ cd my-first-project
 echo "<h1>Hello World</h1>" > index.html
 git add index.html
 git commit -m "Added index.html with a Hello World message"
+echo "<p>This is my first GitHub project!</p>" >> index.html
+git add index.html
+git commit -m "Added a paragraph to index.html"
+echo "<footer>Goodbye!</footer>" >> index.html
+git add index.html
+git commit -m "Added footer to index.html"
+git push origin main
+
 
